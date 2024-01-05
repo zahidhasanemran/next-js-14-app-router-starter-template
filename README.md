@@ -36,12 +36,14 @@ Open your browser and visit http://localhost:3000 to see the template in action.
 
 ## The project structure is organized as follows:
 
+```bash
 pages/: Contains Next.js pages. Each file in this directory corresponds to a route.
 styles/: Includes global CSS styles and configurations.
 components/: Add your React components here.
 Customization
 ESLint Configuration
 Modify .eslintrc.js to adjust ESLint rules based on your preferences.
+```
 
 # Prettier Configuration
 
@@ -53,12 +55,14 @@ Customize the tailwind.config.js file for your specific design requirements.
 
 # Scripts
 
-_npm run dev:_ Start the development server.
-_npm run build:_ Build the production-ready application.
-_npm start:_ Run the production build locally.
-_npm run lint:_ Run ESLint to check for code issues.
-_npm run lint:fix:_ Run ESLint and automatically fix issues.
-_npm run format:_ Format code with Prettier.
+```bash
+npm run dev: Start the development server.
+npm run build: Build the production-ready application.
+npm start: Run the production build locally.
+npm run lint: Run ESLint to check for code issues.
+npm run lint:fix: Run ESLint and automatically fix issues.
+npm run format: Format code with Prettier.
+```
 
 # Contributing
 
