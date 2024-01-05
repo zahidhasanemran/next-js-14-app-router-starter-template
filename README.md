@@ -14,17 +14,22 @@ Welcome to the Next.js starter template! This template is designed to provide a 
 
 ````bash
 git clone https://github.com/zahidhasanemran/next-js-14-app-router-starter-template.git
+````
+
 cd next-js-14-app-router-starter-template
 
 
 
 ## Install Dependencies
+
 ```bash
 npm install
+````
 
 ## Run the Development Server
 ```bash
 npm run dev
+````
 
 Open your browser and visit http://localhost:3000 to see the template in action.
 
@@ -59,4 +64,4 @@ Feel free to contribute to this template by submitting issues, feature requests,
 
 # License
 This project is licensed under the MIT License.
-````
+
