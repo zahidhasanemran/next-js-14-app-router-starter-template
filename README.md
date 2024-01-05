@@ -19,11 +19,13 @@ git clone https://github.com/zahidhasanemran/next-js-14-app-router-starter-templ
 cd next-js-14-app-router-starter-template
 
 ## Install Dependencies
+
 ```bash
 npm install
 ```
 
 ## Run the Development Server
+
 ```bash
 npm run dev
 ```
@@ -34,20 +36,20 @@ Open your browser and visit http://localhost:3000 to see the template in action.
 
 ## The project structure is organized as follows:
 
-**pages/:** Contains Next.js pages. Each file in this directory corresponds to a route.
-**styles/:** Includes global CSS styles and configurations.
-**components/:** Add your React components here.
-**Customization**
-**ESLint** Configuration
-**Modify** .eslintrc.js to adjust ESLint rules based on your preferences.
+pages/: Contains Next.js pages. Each file in this directory corresponds to a route.
+styles/: Includes global CSS styles and configurations.
+components/: Add your React components here.
+Customization
+ESLint Configuration
+Modify .eslintrc.js to adjust ESLint rules based on your preferences.
 
 # Prettier Configuration
 
-**Adjust** .prettierrc for Prettier settings tailored to your coding style.
+Adjust .prettierrc for Prettier settings tailored to your coding style.
 
 # Tailwind CSS
 
-**Customize** the tailwind.config.js file for your specific design requirements.
+Customize the tailwind.config.js file for your specific design requirements.
 
 # Scripts
 
